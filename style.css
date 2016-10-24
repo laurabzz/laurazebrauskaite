@@ -1,25 +1,15 @@
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    font-family: courier;
-}
 
-li {
-    float: left;
-}
 
-li a {
+#about {
+	margin: auto;
     display: block;
     color: white;
     text-align: center;
     padding: 30px;
-    text-decoration: none;
     background-color: black;
 }
 
-li a:hover {
+.content: hover {
     background-color: white;
     color: black;
 }
@@ -28,3 +18,7 @@ li a:hover {
   margin: 0px;
   width: 100%; }
 
+.row {
+	padding: 20px;
+	background-color: black;
+}
