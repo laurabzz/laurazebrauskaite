@@ -27,3 +27,9 @@ li a:hover {
 .main-nav {
 	text-align: right;
 }
+
+.row {
+	position: relative;
+    left: 30px;
+	top: 30px;
+}
