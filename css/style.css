@@ -23,3 +23,7 @@ li a:hover {
     background-color: white;
     color: black;
 }
+
+.main-nav {
+	text-align: right;
+}
